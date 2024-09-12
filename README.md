@@ -6,10 +6,11 @@ This project explores the use of machine learning models to detect and mitigate 
 ## Dataset
 - **Dataset**: DDoS Dataset
 - **Platform**: Kaggle
-- **URL**: [Link to Dataset](https://www.kaggle.com/datasets/devendra416/ddos-datasets)
+- **URL**: [DDoS Dataset](https://www.kaggle.com/datasets/devendra416/ddos-datasets)
+  
 The dataset includes traffic data used to train and test the models for DDoS attack detection.
 
-## ML Models Used
+## Machine Learning Models Used
 1. Random Forest: A robust ensemble method using multiple decision trees.
 2. XGBoost: An optimized gradient boosting framework.
 3. Logistic Regression: A statistical model for binary classification.
